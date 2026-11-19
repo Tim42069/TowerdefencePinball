@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24c6d9ce014432438b1448b7610c1bf, type: 3}
+  m_Name: SlowTower
+  m_EditorClassIdentifier: 
+  towerName: Slow Tower  $100
+  towerPrefab: {fileID: 4987761753348784255, guid: c5e644a1dd0654042b05634d1d59f23f, type: 3}
+  icon: {fileID: 2800000, guid: 83b77667ba9886244a0fb7be379e8325, type: 3}
+  cost: 100
+  radius: 3

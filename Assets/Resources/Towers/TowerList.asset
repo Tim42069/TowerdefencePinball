@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402bd8f1c54f0054d8414865119a3bfa, type: 3}
+  m_Name: TowerList
+  m_EditorClassIdentifier: 
+  towerList:
+  - {fileID: 11400000, guid: bf913dd3be4f972e4b2a733aacf372c3, type: 2}
+  - {fileID: 11400000, guid: cd2e0b4f316ff72bbb6d3379fab8c13d, type: 2}
+  - {fileID: 11400000, guid: a723989098569504f8517a9399eb5e17, type: 2}
+  - {fileID: 11400000, guid: 1e45a9d7020b25d409dfd2a310a2d006, type: 2}
+  - {fileID: 11400000, guid: 293b6d7baab12df409de07e7eb4afa23, type: 2}
+  - {fileID: 11400000, guid: f5ed537cdcffbc74397ff1524fab37d7, type: 2}
+  wave1:
+  - {fileID: 11400000, guid: bf913dd3be4f972e4b2a733aacf372c3, type: 2}
+  - {fileID: 11400000, guid: cd2e0b4f316ff72bbb6d3379fab8c13d, type: 2}
+  wave3:
+  - {fileID: 11400000, guid: a723989098569504f8517a9399eb5e17, type: 2}
+  wave5:
+  - {fileID: 11400000, guid: 1e45a9d7020b25d409dfd2a310a2d006, type: 2}
+  - {fileID: 11400000, guid: 293b6d7baab12df409de07e7eb4afa23, type: 2}
+  wave7:
+  - {fileID: 11400000, guid: f5ed537cdcffbc74397ff1524fab37d7, type: 2}

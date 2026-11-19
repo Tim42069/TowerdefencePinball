@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24c6d9ce014432438b1448b7610c1bf, type: 3}
+  m_Name: BounceTower
+  m_EditorClassIdentifier: 
+  towerName: Bounce Tower  $100
+  towerPrefab: {fileID: 5585899406569107334, guid: 09a5c48430fb69a458f397145b5b4544, type: 3}
+  icon: {fileID: 2800000, guid: d3a7529b54a16bc4cb7c5542e26c00e1, type: 3}
+  cost: 100
+  radius: 2
+  index: 0

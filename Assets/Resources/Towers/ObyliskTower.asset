@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24c6d9ce014432438b1448b7610c1bf, type: 3}
+  m_Name: ObyliskTower
+  m_EditorClassIdentifier: 
+  towerName: Obylisk Tower  $300
+  towerPrefab: {fileID: 7708580205310953860, guid: b381a2b58d08a8a448e853133d6d0d30, type: 3}
+  icon: {fileID: 2800000, guid: 4cb9c7d2cf8af1c44b941ec2f6867946, type: 3}
+  cost: 300
+  radius: 3
+  index: 3
